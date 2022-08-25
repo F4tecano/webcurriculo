@@ -1,2 +1,2 @@
-# wecurriculo
+# WebCurriculo
 Curriculo Gabriel
